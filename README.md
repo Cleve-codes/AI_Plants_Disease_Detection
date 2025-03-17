@@ -69,9 +69,9 @@ Read more about this project in my article on [TowardsDataScience](https://t.co/
 
 ## 🎬 Demo
 
-<p align="center">
+<!-- <p align="center">
   <img src="app/static/SS.png" alt="Application Screenshot" width="700">
-</p>
+</p> -->
 
 Upload an image of a diseased plant leaf, and the application will:
 1. Process the image
