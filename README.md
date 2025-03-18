@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📝 Citation
 
 When using any part of this repository, please cite the original [Plant Village Paper](https://arxiv.org/abs/1511.08060):
-
+<!-- 
 ```bibtex
 @article{mohanty2016using,
   title={Using deep learning for image-based plant disease detection},
@@ -226,7 +226,7 @@ When using any part of this repository, please cite the original [Plant Village 
   year={2016},
   publisher={Frontiers}
 }
-```
+``` -->
 
 ---
 
