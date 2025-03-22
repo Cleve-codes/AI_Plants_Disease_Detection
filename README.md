@@ -206,7 +206,6 @@ Contributions to improve the project are welcome! Please check [CONTRIBUTING.md]
 
 - [FastAI](https://github.com/fastai/fastai) for the deep learning library
 - [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage-Dataset) for the training data
-- All contributors who have helped improve this project
 
 ## 📄 License
 
